@@ -1278,7 +1278,7 @@
 * ⭐ **[Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager)** - Roblox Account Manager
 * ⭐ **[RoMonitor Stats](https://romonitorstats.com/)** - Roblox Experience Stats
 * ⭐ **[Roblox Performance](https://rentry.co/roblox-player-studio-performance)** or [Mr. Goose](https://docs.google.com/document/d/1_XH3IMpaCtoKR1U38Zh08kbJr-WwptsxHSza-G7UKGU/) - Roblox Optimization Guides
-* [Roblox Client Optimizer](https://github.com/L8X/Roblox-Client-Optimizer) - Roblox Optimization Client
+* [rbxflags' Flags](https://github.com/rbxflags/Flags) - Optimize Client via FFlags
 * [Roblox Client Tracker](https://github.com/MaximumADHD/Roblox-Client-Tracker) - Roblox Update Tracker
 * [Novetus](https://bitl.itch.io/novetus) - Self-hosted Multi-version Roblox Client
 * [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Player Bootstrapper
